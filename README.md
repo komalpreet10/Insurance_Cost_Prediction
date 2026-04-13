@@ -1,21 +1,23 @@
-# Insurance_Cost_Prediction
+# Insurance Cost Prediction
 
-## 📌 Project Overview
-This project focuses on **predicting health insurance premiums** using **machine learning and data visualization**.  
-Insurance companies traditionally rely on broad actuarial tables and averages, which often fail to capture individual health differences.  
-By leveraging **data-driven approaches**, this project aims to deliver more **personalized, fair, and accurate premium predictions**.
+## Project Overview
+This project focused on predicting health insurance premiums using machine learning and data visualization techniques. Traditional insurance pricing relied on generalized actuarial tables, which did not fully capture individual-level risk factors. This project aimed to improve pricing accuracy by leveraging data-driven methods to generate personalized premium estimates.
 
-### Why this project matters:
-- 💡 **Enhance Precision in Pricing** → Premiums reflect actual individual risk.  
-- 🏆 **Increase Competitiveness** → More attractive and sustainable pricing.  
-- 😀 **Improve Customer Satisfaction** → Fair and transparent premium calculations.  
-- 📊 **Risk Assessment & Policy Development** → Identify key factors influencing costs and guide product design.  
-- 🔮 **Strategic Insights** → Support insurers in decision-making and market expansion.  
-- 🌐 **Deployment** → A web-based calculator allows real-time premium estimation for customers and agents.
+## Objectives
+- Improved precision in insurance pricing by incorporating individual-level features  
+- Supported competitive and sustainable pricing strategies  
+- Enhanced transparency and fairness in premium calculation  
+- Identified key factors influencing insurance costs for better risk assessment  
+- Provided actionable insights to support business and policy decisions  
 
-✨ This project demonstrates the complete **data science pipeline**:  
-- Exploratory Data Analysis (EDA)  
-- Hypothesis Testing  
-- Machine Learning Modeling  
-- Interactive Tableau Dashboards  
-- Deployment via **Flask/Streamlit** for end-user accessibility  
+## Approach
+The project followed an end-to-end data science pipeline:
+
+- **Exploratory Data Analysis (EDA):** Analyzed data distributions, correlations, and key patterns  
+- **Hypothesis Testing:** Validated statistical relationships between variables and insurance costs  
+- **Machine Learning Modeling:** Built and evaluated predictive models for premium estimation  
+- **Data Visualization:** Developed interactive dashboards using Tableau for insights and communication  
+- **Deployment:** Created a web-based application (Flask/Streamlit) for real-time premium prediction  
+
+## Outcome
+The final solution enabled users (customers or agents) to estimate insurance premiums based on input features, providing a more personalized and data-driven alternative to traditional pricing methods.
